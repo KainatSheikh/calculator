@@ -1,0 +1,31 @@
+.main{
+width: 250px;
+height: 170px;
+margin: 0 auto;
+border: black solid 9px;
+}
+.result{
+    width: 96%;
+    height: 3;
+
+}
+.btn{
+    width: 47px;
+    background-color: olive;
+    color: white;
+    margin: 5px;
+}
+.pen{
+    width: 98px;
+    background-color: olive;
+color: whitesmoke;
+margin: 5px;
+}
+
+body{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+}
